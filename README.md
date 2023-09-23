@@ -1,2 +1,2 @@
 # simple-site-lab
-This is a project using html and css
+This is a 100devs poster projet using html and css
